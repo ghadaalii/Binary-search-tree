@@ -1,0 +1,15 @@
+# ninja log v5
+4	22898	7000142010351863	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+22930	24870	7000142029790743	binary_search_tree.exe	497e0f2619e0be75
+37	15528	7000143054992458	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+15533	16383	7000143063347829	binary_search_tree.exe	497e0f2619e0be75
+31	14301	7000144172253762	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+14305	15009	7000144178979585	binary_search_tree.exe	497e0f2619e0be75
+4	2432	7000234341557820	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+2432	2588	7000234343087585	binary_search_tree.exe	497e0f2619e0be75
+4	2337	7000245538168270	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+2338	2497	7000245539732376	binary_search_tree.exe	497e0f2619e0be75
+16	7707	7000261169294151	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+7710	8322	7000261175200789	binary_search_tree.exe	497e0f2619e0be75
+24	11445	7000264385061153	CMakeFiles/binary_search_tree.dir/main.cpp.obj	cf73833814ba17f9
+11448	11991	7000264390288187	binary_search_tree.exe	497e0f2619e0be75
